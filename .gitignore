@@ -1,0 +1,17 @@
+# ignore Mac OSX meta files
+.DS_Store
+
+# ignore intellij idea project files
+.idea
+*.iml
+
+# ignore eclipse project files
+.classpath
+.project
+.settings
+
+# ignore client library
+src/main/resources/static/*
+
+# ignore intermediate files of maven build
+target

@@ -1,0 +1,52 @@
+{
+  "name": "shortrent",
+  "authors": [
+    "liudonghua123 <liudonghua123@gmail.com>"
+  ],
+  "description": "client library dependencies management",
+  "main": "",
+  "keywords": [
+    "shortrent",
+    "client",
+    "library"
+  ],
+  "license": "MIT",
+  "homepage": "liudonghua.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/resources/static",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.12.4",
+    "bootstrap": "3.3.6",
+    "angular": "^1.5.6"
+  },
+  "install": {
+    "base": "src/main/resources/static",
+    "path": {
+      "css": "css",
+      "js": "js",
+      "eot": "fonts",
+      "svg": "fonts",
+      "ttf": "fonts",
+      "woff": "fonts",
+      "woff2": "fonts"
+    },
+    "sources": {
+      "bootstrap": [
+        "src/main/resources/static/bower_components/bootstrap/dist/js/bootstrap.js",
+        "src/main/resources/static/bower_components/bootstrap/dist/css/bootstrap.css",
+        "src/main/resources/static/bower_components/bootstrap/dist/css/bootstrap-theme.css",
+        "src/main/resources/static/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
+        "src/main/resources/static/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
+        "src/main/resources/static/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
+        "src/main/resources/static/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
+        "src/main/resources/static/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2"
+      ]
+    }
+  }
+}
