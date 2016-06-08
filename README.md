@@ -11,6 +11,8 @@ This is our first version of short rent web app like [airbnb](https://zh.airbnb.
 ## How to run it
 - Clone the code
     `git clone https://github.com/triple-tree/shortrent.git`
+- Install client libs
+	`bower install && bower-installer`
 - Run in terminal
     `mvn spring-boot:run`
 - Import in Intellij idea or eclipse and run `ShortrentApplication` as ordinary java application
@@ -20,7 +22,7 @@ This is our first version of short rent web app like [airbnb](https://zh.airbnb.
 	We use [start.spring.io](http://start.spring.io/) to create the initial project skeleton
     ![](resources/project_scratch.png)
 - Use [maven](maven.apache.org) instead of gradle to manage project dependencies and provide some useful plugin script
-- Use [bower](http://bower.io/) to manage project client(front-end) libs, we install these libs into the default bower_components sub-directory under spring's static folder `/src/main/resources/static` (see .bowerrc) and install to a general location using [bower-installer](https://www.npmjs.com/package/bower-installer) (see install section in bower.json)
+- Use [bower](http://bower.io/) to manage project client(front-end) libs, we install these libs into the default bower_components sub-directory under spring's static folder `/src/main/resources/static` (see .bowerrc) and install to a general location using [bower-installer](https://www.npmjs.com/package/bower-installer) (see install section in bower.json, need a new version see https://github.com/blittle/bower-installer/issues/139)
 
 ## What we need do
 - [x] create initial project
