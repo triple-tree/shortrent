@@ -11,7 +11,7 @@
 .settings
 
 # ignore client library
-src/main/resources/static/*
+src/main/resources/static/bower_components
 
 # ignore intermediate files of maven build
 target

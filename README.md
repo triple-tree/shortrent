@@ -36,3 +36,4 @@ This is our first version of short rent web app like [airbnb](https://zh.airbnb.
 - [Installing the Spring Boot CLI](http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#getting-started-installing-the-cli)
 - [Spring MVC: from JSP and Tiles to Thymeleaf](http://spring.io/blog/2012/10/30/spring-mvc-from-jsp-and-tiles-to-thymeleaf/)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Thymeleaf Page Layouts](http://www.thymeleaf.org/doc/articles/layouts.html)
