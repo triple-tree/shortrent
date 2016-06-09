@@ -1,0 +1,1 @@
+var pngShortrent = angular.module('ngShortrent', ['ui.bootstrap']);

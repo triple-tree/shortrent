@@ -1,0 +1,94 @@
+[
+	{
+		"id": 2,
+		"type": "House",
+		"price": 324,
+		"address": "823 Winding Way",
+		"description": "Beautiful home with lots of space for a large family",
+		"details": {
+			"bedrooms": 4,
+			"bathrooms": 3,
+			"area": 341223
+		},
+		"image": "item1"
+	},
+	{
+		"id": 2,
+		"type": "House",
+		"price": 644,
+		"address": "825 Winding Way",
+		"description": "Beautiful home with lots of space for a large family",
+		"details": {
+			"bedrooms": 4,
+			"bathrooms": 3,
+			"area": 3435
+		},
+		"image": "item2"
+	},
+	{
+		"id": 2,
+		"type": "House",
+		"price": 123,
+		"address": "823 Winding Way",
+		"description": "Beautiful home with lots of space for a large family",
+		"details": {
+			"bedrooms": 4,
+			"bathrooms": 3,
+			"area": 3435
+		},
+		"image": "item3"
+	},
+	{
+		"id": 2,
+		"type": "House",
+		"price": 784,
+		"address": "823 Winding Way",
+		"description": "Beautiful home with lots of space for a large family",
+		"details": {
+			"bedrooms": 4,
+			"bathrooms": 3,
+			"area": 3435
+		},
+		"image": "item4"
+	},
+	{
+		"id": 2,
+		"type": "House",
+		"price": 553,
+		"address": "823 Winding Way",
+		"description": "Beautiful home with lots of space for a large family",
+		"details": {
+			"bedrooms": 4,
+			"bathrooms": 3,
+			"area": 3435
+		},
+		"image": "item5"
+	},
+	{
+		"id": 2,
+		"type": "House",
+		"price": 734,
+		"address": "823 Winding Way",
+		"description": "Beautiful home with lots of space for a large family",
+		"details": {
+			"bedrooms": 4,
+			"bathrooms": 3,
+			"area": 3435
+		},
+		"image": "item6"
+	},
+	{
+		"id": 2,
+		"type": "House",
+		"price": 734,
+		"address": "823 Winding Way",
+		"description": "Beautiful home with lots of space for a large family",
+		"details": {
+			"bedrooms": 4,
+			"bathrooms": 3,
+			"area": 3435
+		},
+		"image": "item7"
+	}
+
+]
