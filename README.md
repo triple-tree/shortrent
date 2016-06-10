@@ -1,4 +1,5 @@
 # Short Rent Web Application
+[![Build Status](https://travis-ci.org/triple-tree/shortrent.svg?branch=master)](https://travis-ci.org/triple-tree/shortrent)
 
 ## What's this app
 This is our first version of short rent web app like [airbnb](https://zh.airbnb.com/)
